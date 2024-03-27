@@ -52,6 +52,10 @@ body {
     width: 50% !important;
 }
 
+.offcanvas {
+    width: 50vw !important;
+}
+
 @media screen and (max-width: 768px) {
     .container .row {
         margin: 0 0;
